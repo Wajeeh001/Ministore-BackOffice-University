@@ -127,7 +127,7 @@
             lblCatogery.Margin = new Padding(5);
             lblCatogery.Name = "lblCatogery";
             lblCatogery.Size = new Size(132, 23);
-            lblCatogery.TabIndex = 1;
+            lblCatogery.TabIndex = 2;
             lblCatogery.Text = "Catogery";
             // 
             // lblPrice
@@ -137,7 +137,7 @@
             lblPrice.Margin = new Padding(5);
             lblPrice.Name = "lblPrice";
             lblPrice.Size = new Size(132, 23);
-            lblPrice.TabIndex = 2;
+            lblPrice.TabIndex = 4;
             lblPrice.Text = "Price";
             // 
             // lblStock
@@ -147,7 +147,7 @@
             lblStock.Margin = new Padding(5);
             lblStock.Name = "lblStock";
             lblStock.Size = new Size(132, 23);
-            lblStock.TabIndex = 3;
+            lblStock.TabIndex = 6;
             lblStock.Text = "Stock";
             // 
             // lblStatus
@@ -157,7 +157,7 @@
             lblStatus.Margin = new Padding(5);
             lblStatus.Name = "lblStatus";
             lblStatus.Size = new Size(132, 23);
-            lblStatus.TabIndex = 4;
+            lblStatus.TabIndex = 8;
             lblStatus.Text = "Status";
             // 
             // lblID
@@ -167,7 +167,7 @@
             lblID.Margin = new Padding(5);
             lblID.Name = "lblID";
             lblID.Size = new Size(132, 23);
-            lblID.TabIndex = 5;
+            lblID.TabIndex = 10;
             lblID.Text = "ID";
             // 
             // tbName
@@ -176,7 +176,7 @@
             tbName.Location = new Point(165, 30);
             tbName.Name = "tbName";
             tbName.Size = new Size(435, 23);
-            tbName.TabIndex = 6;
+            tbName.TabIndex = 1;
             // 
             // tbPrice
             // 
@@ -184,7 +184,7 @@
             tbPrice.Location = new Point(165, 116);
             tbPrice.Name = "tbPrice";
             tbPrice.Size = new Size(435, 23);
-            tbPrice.TabIndex = 7;
+            tbPrice.TabIndex = 5;
             // 
             // tbStock
             // 
@@ -192,7 +192,7 @@
             tbStock.Location = new Point(165, 159);
             tbStock.Name = "tbStock";
             tbStock.Size = new Size(435, 23);
-            tbStock.TabIndex = 8;
+            tbStock.TabIndex = 7;
             // 
             // tbCategory
             // 
@@ -201,7 +201,7 @@
             tbCategory.Location = new Point(165, 73);
             tbCategory.Name = "tbCategory";
             tbCategory.Size = new Size(435, 23);
-            tbCategory.TabIndex = 9;
+            tbCategory.TabIndex = 3;
             // 
             // tbStatus
             // 
@@ -210,7 +210,7 @@
             tbStatus.Location = new Point(165, 202);
             tbStatus.Name = "tbStatus";
             tbStatus.Size = new Size(435, 23);
-            tbStatus.TabIndex = 10;
+            tbStatus.TabIndex = 9;
             // 
             // tbID
             // 
@@ -250,7 +250,7 @@
             btnSave.Location = new Point(500, 3);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(120, 40);
-            btnSave.TabIndex = 0;
+            btnSave.TabIndex = 1;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = false;
             // 
@@ -263,7 +263,7 @@
             btnCancel.Location = new Point(374, 3);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(120, 40);
-            btnCancel.TabIndex = 1;
+            btnCancel.TabIndex = 0;
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = false;
             // 
